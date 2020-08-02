@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22129.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryInfoDatabaseLib", "DirectoryInfoDatabaseLib\DirectoryInfoDatabaseLib.csproj", "{6444EEC6-1D63-489E-9DDE-1C27B4115CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryInfoCollector", "DirectoryInfoCollector\DirectoryInfoCollector.csproj", "{3401B0C2-0B01-4936-BB42-5564CD19CB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6444EEC6-1D63-489E-9DDE-1C27B4115CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6444EEC6-1D63-489E-9DDE-1C27B4115CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6444EEC6-1D63-489E-9DDE-1C27B4115CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6444EEC6-1D63-489E-9DDE-1C27B4115CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3401B0C2-0B01-4936-BB42-5564CD19CB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3401B0C2-0B01-4936-BB42-5564CD19CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3401B0C2-0B01-4936-BB42-5564CD19CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3401B0C2-0B01-4936-BB42-5564CD19CB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
